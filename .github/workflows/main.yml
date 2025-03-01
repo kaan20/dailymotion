@@ -1,4 +1,4 @@
-name: My Selenium 2
+name: Dailymotion
 
 on:
   workflow_dispatch:
